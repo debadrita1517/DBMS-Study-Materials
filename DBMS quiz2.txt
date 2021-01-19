@@ -1,0 +1,378 @@
+﻿A property of entire relation, rather than of individual tuples, is known as
+A. SCHEMA	 
+B. CONSTANT
+C. VARIABLE
+D. KEY ATTRIBUTE
+ANSWER: D
+
+Address field of a person should not be part of primary key, since it is likely to be
+A. DEPENDENT
+B. CHANGED
+C. NOT CHANGED
+D. TOO LONG 
+ANSWER: B
+
+Minimal super keys are called
+A. UNIQUE KEY
+B. SUPERSET KEY
+C. CANDIDATE KEY
+D. PRIMARY KEY
+ANSWER: C
+
+Prime attributes play a role in the formation of
+A. SUPERSET KEY
+B. SUPER KEY
+C. PRIMARY KEY
+D. CANDIDATE KEY
+ANSWER: D
+
+Full form of DDL is
+A. DATA DIGITAL LANGUANGE
+B. DATA DECODED LANGUANGE
+C. DATA DEFINTION LANGUAGE
+D. DATA DIAGRAM LANGUAGE
+ANSWER: C
+
+GRANT and REVOKE fall under which form of which language
+A. DATA MANUPULATION LANGUANGE
+B. DATA CONTROL LANGUANGE
+C. DATA DEFINTION LANGUAGE
+D. DATA QUERY LANGUAGE
+ANSWER: B
+
+Weak entities and their identifying relationship in ER diagrams are represente by 
+A. OVAL SHAPE WITH DOUBLE LINE
+B. RECTANGLE SHAPE WITH DOUBLE LINE
+C. SQUARE SHAPE WITH DOUBLE LINE 
+D. DIAMOND SHAPE WITH DOUBLE LINE 
+ANSWER: D
+
+Entities that have key attributes to be distinct are considered as
+A. WEAK ENTITY
+B. STRONG ENTITY
+C. SINGLE ENTITY
+D. FOREIGN ENTITY
+ANSWER: B
+
+In entity-relationship, entity type this has existance dependency constaint is classified as
+A. SINGLE ENTITY
+B. FOREIGN ENTITY
+C. WEAK ENTITY
+D. STRONG ENTITY
+ANSWER: C
+
+Set of key attributes that identify weak entities related to some owner entity is classified as 
+A. STRUCTURAL KEY
+B. PARTIAL KEY
+C. STRING KEY
+D. FOREIGN KEY
+ANSWER: B
+
+The tuples of the relation can be of which Order
+A. ANY
+B. SAME 
+C. SORTED
+D. CONSTANT
+ANSWER: B
+
+Database catalog or dictionay defining descriptive information which is stored in databse is called
+A. CONSTRAINED DATA
+B. METADATA
+C. BASIC DATA
+D. FILTERED DATA
+ANSWER: B
+
+In the relational models, Cardinality is termed as
+A. NUMBER OF TUPLES
+B. NUMBER OF ATTRIBUTES
+C. NUMBER OF TABLES
+D. NUMBER OF CONSTRAINTS
+ANSWER: A
+
+Key to represent relationship between tables
+A. PRIMARY KEY
+B. SECONDARY KEY
+C. FOREIGN KEY
+D. NONE OF THE OPTIONS
+ANSWER: C
+
+In a hierarchical model records are organised as
+A. A TREE
+B. A GRAPH
+C. A B-TREE
+D. NONE OF THE OPTIONS
+ANSWER: A
+
+NULL is 
+A. THE SAME AS 0 FOR INTEGER
+B. THE SAME AS BLANK FOR CHARACTER
+C. THE SAME AS 0 FOR INTEGER AND BLANK FOR CHARACTER
+D. NOT A VALUE
+ANSWER: D
+
+In ER diagram an entity is represented by
+A. RECTANGLE
+B. CIRCLE
+C. ECLIPSE
+D. DIAMONE BOX
+ANSWER: A
+
+Which of the followng are properties of Entities
+A. GROUPS
+B. TABLES
+C. ATTRIBUTES
+D. SWITCH BOARDS
+ANSWER: C
+
+To delete a particular column in a relation the SQL command used is 
+A. UPDATE
+B. DROP
+C. ALTER
+D. DELETE
+ANSWER: C
+
+An entity A is associated with atmost one entity in B,an entity B is associated with atmost one entity in B then the mapping will be
+A. ONE TO MANY
+B. ONE TO ONE
+C. MANY TO MANY
+D. MANY TO ONE
+ANSWER: B 
+
+Which data type can store unstructured data
+A. RAW
+B. CHAR 
+C. VARCHAR
+D. NUMERIC
+ANSWER: A
+
+A data manipulation command that combines the records of one or more tables 
+A. SELECT
+B. PROJECT
+C. JOIN
+D. PRODUCT
+ANSWER: C
+
+Architecture of the data can be viewed as
+A. TWO LEVELS
+B. FOUR LEVELS 
+C. THREE LEVELS 
+D. ONE LEVEL
+ANSWER: C
+
+In a relation model, relations are termed as
+A. TUPLES
+B. ATTRIBUTES 
+C. TABLES
+D. ROWS
+ANSWER: C
+
+An entity set that does not have sufficient attributes form a key
+A. STRONG ENTITY SET
+B. WEAK ENTITY SET
+C. SIMPLE ENTITY SET
+D. PRIMARY ENTITY SET
+ANSWER: B
+
+In ER diagram attributes are represented by
+A. RECTANGLE
+B. SQUARE
+C. ECLIPSE
+D. TRIANGLE
+ANSWER: C
+
+DBA stands for 
+A. DATA BANK ACCESS
+B. DATABASE ACCESS
+C. DATA BANK ADMINISTRATOR
+D. DATABASE ADMINISTRATOR
+ANSWER: D
+
+Managers salary details are hidden from the employee. This is
+A. CONCEPTUAL LEVEL HIDING 
+B. PHYSICAL LEVEL HIDING
+C. EXTERNAL LEVEL HIDING
+D. NONE OF THE OPTIONS
+ANSWER: A
+
+A table joined with itself is called
+A. JOIN
+B. SELF JOIN
+C. OUTER JOIN
+D. EQUI JOIN
+ANSWER: B
+
+An Association between Students and Courses is
+A. 1:1
+B. 1:M
+C. M:M
+D. NONE
+ANSWER: C
+
+Which special type of integrity constraint that relates two relations and maintain consistency among the relations
+A. ENTITY INTEGRITY CONSTRAINTS
+B. REFERENTIAL INTEGRITY CONSTRAINTS
+C. DOMAIN INTEGRITY CONSTRAINTS
+D. DOMAIN CONSTRAINTS
+ANSWER: B
+
+The set of all possible values of data items is called
+A. DOMAIN
+B. ATTRIBUTES
+C. TUPLES
+D. NONE OF THE OPTIONS
+ANSWER: A
+
+Integrity that says Primary Key cannot be NULL
+A. DOMAIN INTEGRITY
+B. ENTITY INTEGRITY
+C. REFERENTIAL INTEGRITY
+D. ALL THE OPTIONS
+ANSWER: B
+
+Integrity that is based on foreign key concept
+A. DOMAIN INTEGRITY
+B. ENTITY INTEGRITY
+C. REFERENTIAL INTEGRITY
+D. ALL THE OPTIONS
+ANSWER: C
+
+Which operator performs pattern matching
+A. BETWEEN OPERATOR
+B. LIKE OPERATOR
+C. EXITS OPERATOR
+D. NONE OF THE OPTIONS
+ANSWER: B
+
+In SQL, which command is used to change table storage characterstics
+A. ALTER TABLE
+B. MODIFY TABLE
+C. CHANGE TABLE
+D. ALL OF THE OPTIONS
+ANSWER: A
+
+In SQL, which command is used to select only one copy of each set of duplicate rows
+A. SELECT DISTINCT
+B. SELECT UNIQUE 
+C. SELECT DIFFERENT
+D. ALL OF THE OPTIONS
+ANSWER: A
+
+Which of SQL Statement is correct
+A. SELECT USERNAME AND PASSWORD FROM USERS
+B. SELECT USERNAME, PASSWORD FROM USERS
+C. SELECT USERNAME, PASSWORD WHERE USERNAME='USER1'
+D. NONE OF THE OPTIONS
+ANSWER: B
+
+The FROM clause is used to 
+A. SPECIFY WHAT TABLE WE ARE SELECTING AND DELETING DATA FROM
+B. SPECIFY RANGE OF SEARCH CONDITION
+C. SPECIFY SEARCH CONDITION
+D. NONE OF THE OPTIONS
+ANSWER: A
+
+Which SQL Keyword is used to retrieve a maximum value
+A. TOP
+B. MOST
+C. UPPER
+D. MAX
+ANSWER: D
+
+Which of the following SQL commands is used to retrieve data
+A. DELETE
+B. INSERT
+C. SELECT
+D. JOIN
+ANSWER: C
+
+Which SQL Keyword is used to sort the result set
+A. SORT BY
+B. ORDER
+C. ORDER BY
+D. SORT
+ANSWER: C
+
+Find all the cities whose humidity is 89
+A. SELECT CITY WHERE HUMIDITY =89
+B. SELECT CITY FROM WEATHER WHERE HUMIDITY =89
+C. SELECT HUMIDITY =89 FROM WEATHER
+D. SELECT CITY WEATHER FROM WEATHER
+ANSWER: B
+
+Select the temperature in increasing order of all cities
+A. SELECT CITY FROM WEATHER ORDER BY TEMPERATURE
+B. SELECT CITY, TEMPERATURE FROM WEATHER
+C. SELECT CITY, TEMPERATURE FROM WEATHER ORDER BY TEMPERATURE
+D. SELECT CITY, TEMPERATURE FROM WEATHER ORDER BY CITY
+ANSWER: C
+
+What is the meaning of LIKE '%0%0%'
+A. FEATURE BEGIN WITH TWO 0'S
+B. FEATURE ENDS WITH TWO 0'S
+C. FEATURE HAS MORE THAT TWO 0'S
+D. FEATURE HAS TWO 0'S IN IT AT ANY POSITION
+ANSWER: D
+
+Find the name of these cities with temperature an condition whose condition is neither sunny nor cloudy
+A. SELECT CITY, TEMPERATURE, CONDITION FROM WEATHER WHERE CONDITION NOT IN ('SUNNY','CLOUDY')
+B. SELECT CITY, TEMPERATURE, CONDITION FROM WEATHER WHERE CONDITION NOT BETWEEN ('SUNNY'AND'CLOUDY')
+C. SELECT CITY, TEMPERATURE, CONDITION FROM WEATHER WHERE CONDITION BETWEEN ('SUNNY'AND'CLOUDY')
+D. SELECT CITY, TEMPERATURE, CONDITION FROM WEATHER WHERE CONDITION IN ('SUNNY','CLOUDY')
+ANSWER: A
+
+Find all cities where humidity is in the range of 63 to 79
+A. SELECT CITY FROM WEATHER WHERE HUMIDITY IN (63 , 79)
+B. SELECT CITY FROM WEATHER WHERE HUMIDITY NOT IN (63 , 79)
+C. SELECT CITY FROM WEATHER WHERE HUMIDITY BETWEEN 63 AND 79
+D, SELECT CITY FROM WEATHER WHERE HUMIDITY NOT BETWEEN 63 AND 79
+ANSWER: C
+
+Which of the following SQL commands can be used to add data to the data base
+A. ADD
+B. UPDATE
+C. APPEND
+D. INSERT
+ANSWER: D
+
+Which of the following is not a type of SQL constraint
+A. PRIMARY KEY
+B. ALTERNATE KEY
+C. FOREIGN KEY
+D. UNIQUE
+ANSWER: B
+
+Which SQL command can be used to add columns to a table
+A. ALTER TABLE TABLENAME ADD COLUMN_NAME
+B. ALTER TABLE TABLENAME ADD COLUMN COLUMN_NAME
+C. MODIFY TABLE TABLENAME ADD COLUMN_NAME
+D. MODIFY TABLE TABLENAME ADD COLUMN COLUMN_NAME
+ANSWER: A
+
+A subquery is SQL SELECT statement is enclosed in 
+A. PARENTHESIS ( )
+B. BRACKETS [ ]
+C. CAPS
+D. BRACES { }
+ANSWER: A
+
+Which one of the following attribute can be taken as a primary key
+A. NAME
+B. STREET
+C. ID
+D. DEPARTMENT
+ANSWER: C
+
+Which one of the following uniquely identifies the elements in the relation
+A. SECONDARY KEY
+B. ALTERNATE KEY
+C. PRIMARY KEY
+D. FOREIGN KEY
+ANSWER: C
+
+
+
+
+
+
+
+
