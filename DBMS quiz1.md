@@ -1,44 +1,38 @@
-﻿The main task carried out in the __________ is to remove repeating attributes to separate tables.
-A. First Normal Form
-B. Second Normal Form
-C. Third Normal Form
-D. Fourth Normal Form
-ANSWER: A
+#### 1. The main task carried out in the __________ is to remove repeating attributes to separate tables.
+- [X] First Normal Form
+- [ ] Second Normal Form
+- [ ] Third Normal Form
+- [ ] Fourth Normal Form
 
-In 2NF
-A. No functional dependencies (FDs) exist.
-B. No multivalued dependencies (MVDs) exist.
-C. No partial FDs exist.
-D. No partial MVDs exist.
-ANSWER: C
+#### 2. In 2NF
+- [ ] No functional dependencies (FDs) exist.
+- [ ] No multivalued dependencies (MVDs) exist.
+- [X] No partial FDs exist.
+- [ ] No partial MVDs exist.
 
-All aggregate functions except _____ ignore null values in their input collection.
-A. Count(attribute)
-B. Count(*)
-C. Avg
-D. Sum
-ANSWER: B
+#### 3. All aggregate functions except _____ ignore null values in their input collection.
+- [ ] Count(attribute)
+- [X] Count(*)
+- [ ] Avg
+- [ ] Sum
 
-We can use the following three rules to find logically implied functional dependencies. This collection of rules is called
-A. Axioms
-B. Armstrong’s axioms
-C. Armstrong
-D. Closure
-ANSWER: B
+#### 4. We can use the following three rules to find logically implied functional dependencies. This collection of rules is called
+- [ ] Axioms
+- [X] Armstrong’s axioms
+- [ ] Armstrong
+- [ ] Closure
 
-Which of the following is not a Armstrong’s Axiom ?
-A. Reflexivity rule
-B. Transitivity rule
-C. Pseudotransitivity rule
-D. Augmentation rule
-ANSWER: C
+#### 5. Which of the following is not a Armstrong’s Axiom ?
+- [ ] Reflexivity rule
+- [ ] Transitivity rule
+- [X] Pseudotransitivity rule
+- [ ] Augmentation rule
 
-Ensuring isolation property is the responsibility of the
-A. Recovery-management component of the DBMS
-B. Concurrency-control component of the DBMS
-C. Transaction-management component of the DBMS
-D. Buffer management component in DBMS
-ANSWER: B
+#### 6. Ensuring isolation property is the responsibility of the
+- [ ] Recovery-management component of the DBMS
+- [X] Concurrency-control component of the DBMS
+- [ ] Transaction-management component of the DBMS
+- [ ] Buffer management component in DBMS
 
 A transaction may not always complete its execution successfully. Such a transaction is termed
 A. Aborted
